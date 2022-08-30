@@ -1,7 +1,6 @@
 	# liens utiles :
 # https://towardsdatascience.com/gan-by-example-using-keras-on-tensorflow-backend-1a6d515a60d0
 # https://github.com/mitchelljy/DCGAN-Keras/blob/master/DCGAN.py
-# http://jujucodingtime.fr
 #=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=#
 #                              Imports                              #
 #=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=#
